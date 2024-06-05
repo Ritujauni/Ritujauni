@@ -1,7 +1,7 @@
- • 👋Hi, I'm Rituja Lolam..
- • 🎓Completed my Masters in Information Systems
- • 👀Interested in Data Engineering, Analytics and Cloud
- • 📫How to reach me: lolamrituja@gmail.com
+ • 👋Hi, I'm Rituja Lolam<br />
+ • 🎓Completed my Masters in Information Systems<br />
+ • 👀Interested in Data Engineering, Analytics and Cloud<br />
+ • 📫How to reach me: lolamrituja@gmail.com<br />
 
 <!--
 **Ritujauni/Ritujauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
