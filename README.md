@@ -1,4 +1,4 @@
- • 👋Hi, I'm Rituja Lolam
+ • 👋Hi, I'm Rituja Lolam..
  • 🎓Completed my Masters in Information Systems
  • 👀Interested in Data Engineering, Analytics and Cloud
  • 📫How to reach me: lolamrituja@gmail.com
